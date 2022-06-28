@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  App.xaml.cpp
+  MainPage.xaml.cpp
+  XamlTypeInfo.Impl.g.cpp
+  XamlTypeInfo.g.cpp
+     Создается библиотека C:\Users\HP\Desktop\CoaxialCalculator\x64\Debug\CoaxialCalculator\CoaxialCalculator.lib и объект C:\Users\HP\Desktop\CoaxialCalculator\x64\Debug\CoaxialCalculator\CoaxialCalculator.exp
+  CoaxialCalculator.vcxproj -> C:\Users\HP\Desktop\CoaxialCalculator\x64\Debug\CoaxialCalculator\CoaxialCalculator.exe
